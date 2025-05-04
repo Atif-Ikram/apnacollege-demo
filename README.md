@@ -1,4 +1,4 @@
 # apnacollege-demo
 This is my first Repository.
 <br>
-Author - Atif Ikram
+Author - Atif Ikram (Apna College)
